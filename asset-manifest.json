@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/doggy-pile-static/static/css/main.073c9b0a.css",
-    "main.js": "/doggy-pile-static/static/js/main.00516a75.js",
-    "static/js/787.fbc65008.chunk.js": "/doggy-pile-static/static/js/787.fbc65008.chunk.js",
-    "static/media/logo.svg": "/doggy-pile-static/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/doggy-pile-static/static/css/main.eeb9e30f.css",
+    "main.js": "/doggy-pile-static/static/js/main.960f68e6.js",
+    "static/media/header-image.png": "/doggy-pile-static/static/media/header-image.a07769ebfe359596383d.png",
+    "static/media/depp.jpg": "/doggy-pile-static/static/media/depp.70d13ece0a8497f11f35.jpg",
+    "static/media/reeves.jpg": "/doggy-pile-static/static/media/reeves.60997b7258abcab372d3.jpg",
+    "static/media/footprints.png": "/doggy-pile-static/static/media/footprints.7afe94843c8457c1f15c.png",
+    "static/media/grouppost-icon.svg": "/doggy-pile-static/static/media/grouppost-icon.6985e8b697d4d8d164f6786faa54e9e4.svg",
+    "static/media/calendar-icon.svg": "/doggy-pile-static/static/media/calendar-icon.c2974618cc79ea0e7f31800b7a8480c4.svg",
+    "static/media/map-icon.svg": "/doggy-pile-static/static/media/map-icon.62545ad3947f84455976171185474666.svg",
     "index.html": "/doggy-pile-static/index.html",
-    "main.073c9b0a.css.map": "/doggy-pile-static/static/css/main.073c9b0a.css.map",
-    "main.00516a75.js.map": "/doggy-pile-static/static/js/main.00516a75.js.map",
-    "787.fbc65008.chunk.js.map": "/doggy-pile-static/static/js/787.fbc65008.chunk.js.map"
+    "main.eeb9e30f.css.map": "/doggy-pile-static/static/css/main.eeb9e30f.css.map",
+    "main.960f68e6.js.map": "/doggy-pile-static/static/js/main.960f68e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.00516a75.js"
+    "static/css/main.eeb9e30f.css",
+    "static/js/main.960f68e6.js"
   ]
 }
